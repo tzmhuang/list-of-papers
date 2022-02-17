@@ -12,6 +12,9 @@
 - [x] [Mask R-CNN](https://arxiv.org/abs/1703.06870), ICCV 2017
 - [ ] [SOLO: Segmenting Objects by Locations](https://arxiv.org/abs/1912.04488), ECCV 2020
 - [ ] [SOLOv2: Dynamic and Fast Instance Segmentation](https://arxiv.org/abs/2003.10152), NIPS 2020
+- [ ] [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/abs/2011.12450), CVPR 2021
+- [ ] [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872), ECCV 2020
+- [ ] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030), ICCV 2021
 
 ## Vision-and-Language Navigation
 
