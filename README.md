@@ -15,6 +15,7 @@
 - [ ] [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/abs/2011.12450), CVPR 2021
 - [ ] [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872), ECCV 2020
 - [ ] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030), ICCV 2021
+- [ ] [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144), CVPR 2017
 
 ## Vision-and-Language Navigation
 
