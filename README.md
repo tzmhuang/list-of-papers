@@ -15,6 +15,7 @@
 
 ## Transformers
 - [x] [Attention is all you need](https://arxiv.org/abs/1706.03762), NeurIPS 2017
+- [ ] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929), ICLR 2021
 - [ ] [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872), ECCV 2020
 - [ ] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030), ICCV 2021
 - [x] [Auto-scaling Vision Transformers without Training](https://arxiv.org/abs/2202.11921), ICLR 2022
