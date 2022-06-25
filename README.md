@@ -50,6 +50,3 @@
 - [x] [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), 2017
 - [x] [Federated Imitation Learning: A Novel Framework for Cloud Robotic Systems with Heterogeneous Sensor Data](https://arxiv.org/abs/1912.12204), ICRA 2020
 - [x] [Imitation Learning by Estimating Expertise of Demonstrators](https://arxiv.org/abs/2202.01288), ICML 2022
-
-## Federated Learning
-- [x]
