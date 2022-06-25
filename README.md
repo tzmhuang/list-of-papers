@@ -30,7 +30,7 @@
 - [ ] [On the Evaluation of Vision-and-Language Navigation Instructions](https://arxiv.org/abs/2101.10504), EACL 2021
 - [ ] [Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding](https://arxiv.org/abs/2010.07954), EMNLP 2020
 - [ ] [Where Are You? Localization from Embodied Dialog](https://arxiv.org/abs/2011.08277), EMNLP 2020
-- [ ] [Less is More: Generating Grounded Navigation Instructions from Landmarks](https://arxiv.org/abs/2111.12872)
+- [ ] [Less is More: Generating Grounded Navigation Instructions from Landmarks](https://arxiv.org/abs/2111.12872), CVPR 2022
 
 ## Meta Learning
 - [ ] [Model-agnostic meta-learning for fast adaptation of deep networks](https://dl.acm.org/doi/10.5555/3305381.3305498), ICML 2017
