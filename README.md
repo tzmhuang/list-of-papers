@@ -50,3 +50,7 @@
 - [x] [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), 2017
 - [x] [Federated Imitation Learning: A Novel Framework for Cloud Robotic Systems with Heterogeneous Sensor Data](https://arxiv.org/abs/1912.12204), ICRA 2020
 - [x] [Imitation Learning by Estimating Expertise of Demonstrators](https://arxiv.org/abs/2202.01288), ICML 2022
+
+## Representation Learning
+- [ ] [Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf), NIPS 2017
+- [ ] [Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/pdf/1911.05722.pdf), arXiv 2020
