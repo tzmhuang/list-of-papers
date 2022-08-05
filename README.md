@@ -38,7 +38,12 @@
 
 ## Autonomous Driving
 - [x] [KING: Generating Safety-Critical Driving Scenarios for Robust Imitation via Kinematics Gradients](https://arxiv.org/abs/2204.13683), arXiv 2022
-
+- [ ] [End-to-End Urban Driving by Imitating a Reinforcement Learning Coach](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_End-to-End_Urban_Driving_by_Imitating_a_Reinforcement_Learning_Coach_ICCV_2021_paper.pdf), ICCV 2021
+- [ ] [TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving](https://arxiv.org/abs/2205.15997), arXiv 2022
+- [ ] [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](http://roboticsproceedings.org/rss15/p31.pdf), RSS 2019
+- [ ] [GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving](https://arxiv.org/pdf/2101.06543.pdf), CVPR 2021
+- [ ] [MP3: A Unified Model to Map, Perceive, Predict and Plan](https://arxiv.org/pdf/2101.06806.pdf), CVPR 2021
+- [ ]
 
 ## Meta Learning
 - [ ] [Model-agnostic meta-learning for fast adaptation of deep networks](https://dl.acm.org/doi/10.5555/3305381.3305498), ICML 2017
@@ -50,6 +55,7 @@
 - [x] [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), 2017
 - [x] [Federated Imitation Learning: A Novel Framework for Cloud Robotic Systems with Heterogeneous Sensor Data](https://arxiv.org/abs/1912.12204), ICRA 2020
 - [x] [Imitation Learning by Estimating Expertise of Demonstrators](https://arxiv.org/abs/2202.01288), ICML 2022
+- [ ] [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://www.ri.cmu.edu/pub_files/2011/4/Ross-AISTATS11-NoRegret.pdf), AISTATS 2011
 
 ## Representation Learning
 - [ ] [Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf), NIPS 2017
