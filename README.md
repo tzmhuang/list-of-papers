@@ -53,6 +53,8 @@
 
 ## Reinforcement Learing
 - [x] [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), 2017
+
+## Imitation Learning
 - [x] [Federated Imitation Learning: A Novel Framework for Cloud Robotic Systems with Heterogeneous Sensor Data](https://arxiv.org/abs/1912.12204), ICRA 2020
 - [x] [Imitation Learning by Estimating Expertise of Demonstrators](https://arxiv.org/abs/2202.01288), ICML 2022
 - [ ] [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://www.ri.cmu.edu/pub_files/2011/4/Ross-AISTATS11-NoRegret.pdf), AISTATS 2011
