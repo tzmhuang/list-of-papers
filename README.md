@@ -60,8 +60,8 @@
 ## Imitation Learning
 - [x] [Federated Imitation Learning: A Novel Framework for Cloud Robotic Systems with Heterogeneous Sensor Data](https://arxiv.org/abs/1912.12204), ICRA 2020
 - [x] [Imitation Learning by Estimating Expertise of Demonstrators](https://arxiv.org/abs/2202.01288), ICML 2022
-- [ ] [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://www.ri.cmu.edu/pub_files/2011/4/Ross-AISTATS11-NoRegret.pdf), AISTATS 2011
-- [ ] Human-to-Robot Imitation in the Wild(https://arxiv.org/abs/2207.09450), RSS 2022 
+- [x] [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](https://www.ri.cmu.edu/pub_files/2011/4/Ross-AISTATS11-NoRegret.pdf), AISTATS 2011
+- [ ] [Human-to-Robot Imitation in the Wild](https://arxiv.org/abs/2207.09450), RSS 2022 
 
 ## Representation Learning
 - [ ] [Neural Discrete Representation Learning](https://arxiv.org/pdf/1711.00937.pdf), NIPS 2017
