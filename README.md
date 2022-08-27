@@ -56,6 +56,7 @@
 - [x] [Combating Reinforcement Learning's Sisyphean Curse with Intrinsic Fear](https://arxiv.org/abs/1611.01211), 2017
 - [x] [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/index.html), SIGGRAPH 2018
 - [ ] [Amp: Adversarial motion priors for stylized physics-based character control](https://arxiv.org/abs/2104.02180), ACM TOG 2021
+- [ ] [Learning Awareness Models](https://arxiv.org/pdf/1804.06318.pdf), ICLR 2018
 
 ## Imitation Learning
 - [x] [Federated Imitation Learning: A Novel Framework for Cloud Robotic Systems with Heterogeneous Sensor Data](https://arxiv.org/abs/1912.12204), ICRA 2020
